@@ -17,6 +17,5 @@ namespace Methods
 
         public string Satici { get; set; }
 
-        public object MyProperty { get; set; }
     }
 }
