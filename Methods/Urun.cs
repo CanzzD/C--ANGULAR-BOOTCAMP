@@ -16,5 +16,7 @@ namespace Methods
         public int StokAdedi { get; set; }
 
         public string Satici { get; set; }
+
+        public object MyProperty { get; set; }
     }
 }
