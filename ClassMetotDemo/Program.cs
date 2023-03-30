@@ -30,18 +30,15 @@ namespace ClassMetotDemo
             musteriManager.MusteriEkle(musteri2);
             musteriManager.MusteriEkle(musteri3);
 
+            musteriManager.MusteriListele();
 
-            MusteriManager musteriManager1 = new MusteriManager();
-            musteriManager1.MusteriSil(musteri1);
-            musteriManager1.MusteriSil(musteri2);
-            musteriManager1.MusteriSil(musteri3);
 
-            MusteriManager musteriManager2 = new MusteriManager();
-            musteriManager2.MusteriListele(musteri1);
-            musteriManager2.MusteriListele(musteri2);
-            musteriManager2.MusteriListele(musteri3);
+            musteriManager.MusteriSil(musteri1);
+            musteriManager.MusteriSil(musteri2);
+            musteriManager.MusteriSil(musteri3);
 
-            
+
+
 
         }
     }

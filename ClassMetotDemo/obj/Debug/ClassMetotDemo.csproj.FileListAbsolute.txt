@@ -3,3 +3,4 @@
 /Users/canozdemir/Desktop/KampIntro/ClassMetotDemo/obj/Debug/ClassMetotDemo.csproj.CoreCompileInputs.cache
 /Users/canozdemir/Desktop/KampIntro/ClassMetotDemo/obj/Debug/ClassMetotDemo.exe
 /Users/canozdemir/Desktop/KampIntro/ClassMetotDemo/obj/Debug/ClassMetotDemo.pdb
+/Users/canozdemir/Desktop/KampIntro/ClassMetotDemo/obj/Debug/ClassMetotDemo.csproj.AssemblyReference.cache
