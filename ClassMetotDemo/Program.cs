@@ -23,15 +23,14 @@ namespace ClassMetotDemo
             musteri3.Bakiye = 20000;
 
 
-
-
             MusteriManager musteriManager = new MusteriManager();
+
+
             musteriManager.MusteriEkle(musteri1);
             musteriManager.MusteriEkle(musteri2);
             musteriManager.MusteriEkle(musteri3);
 
             musteriManager.MusteriListele();
-
 
             musteriManager.MusteriSil(musteri1);
             musteriManager.MusteriSil(musteri2);
