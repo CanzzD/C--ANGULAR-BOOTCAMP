@@ -1,0 +1,5 @@
+/Users/canozdemir/Desktop/KampIntro/Day2-Task6/bin/Debug/Day2-Task6.exe
+/Users/canozdemir/Desktop/KampIntro/Day2-Task6/bin/Debug/Day2-Task6.pdb
+/Users/canozdemir/Desktop/KampIntro/Day2-Task6/obj/Debug/Day2-Task6.csproj.CoreCompileInputs.cache
+/Users/canozdemir/Desktop/KampIntro/Day2-Task6/obj/Debug/Day2-Task6.exe
+/Users/canozdemir/Desktop/KampIntro/Day2-Task6/obj/Debug/Day2-Task6.pdb

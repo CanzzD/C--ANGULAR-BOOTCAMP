@@ -1,0 +1,5 @@
+/Users/canozdemir/Desktop/KampIntro/Methods/bin/Debug/Methods.exe
+/Users/canozdemir/Desktop/KampIntro/Methods/bin/Debug/Methods.pdb
+/Users/canozdemir/Desktop/KampIntro/Methods/obj/Debug/Methods.csproj.CoreCompileInputs.cache
+/Users/canozdemir/Desktop/KampIntro/Methods/obj/Debug/Methods.exe
+/Users/canozdemir/Desktop/KampIntro/Methods/obj/Debug/Methods.pdb

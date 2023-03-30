@@ -1,0 +1,6 @@
+/Users/canozdemir/Desktop/KampIntro/Matematik/bin/Debug/Matematik.exe
+/Users/canozdemir/Desktop/KampIntro/Matematik/bin/Debug/Matematik.pdb
+/Users/canozdemir/Desktop/KampIntro/Matematik/obj/Debug/Matematik.csproj.AssemblyReference.cache
+/Users/canozdemir/Desktop/KampIntro/Matematik/obj/Debug/Matematik.csproj.CoreCompileInputs.cache
+/Users/canozdemir/Desktop/KampIntro/Matematik/obj/Debug/Matematik.exe
+/Users/canozdemir/Desktop/KampIntro/Matematik/obj/Debug/Matematik.pdb

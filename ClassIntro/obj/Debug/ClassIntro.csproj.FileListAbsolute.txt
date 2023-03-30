@@ -1,0 +1,6 @@
+/Users/canozdemir/Desktop/KampIntro/ClassIntro/obj/Debug/ClassIntro.csproj.AssemblyReference.cache
+/Users/canozdemir/Desktop/KampIntro/ClassIntro/obj/Debug/ClassIntro.csproj.CoreCompileInputs.cache
+/Users/canozdemir/Desktop/KampIntro/ClassIntro/bin/Debug/ClassIntro.exe
+/Users/canozdemir/Desktop/KampIntro/ClassIntro/bin/Debug/ClassIntro.pdb
+/Users/canozdemir/Desktop/KampIntro/ClassIntro/obj/Debug/ClassIntro.exe
+/Users/canozdemir/Desktop/KampIntro/ClassIntro/obj/Debug/ClassIntro.pdb
