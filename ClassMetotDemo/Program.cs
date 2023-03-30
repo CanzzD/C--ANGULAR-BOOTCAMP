@@ -7,34 +7,34 @@ namespace ClassMetotDemo
         public static void Main(string[] args)
         {
 
-            Musteri musteri1 = new Musteri();
-            musteri1.Ad = "Atakan";
-            musteri1.Soyad = "Yılmaz";
-            musteri1.Bakiye = 50000;
+            Customer customer1 = new Customer();
+            customer1.Name = "Atakan";
+            customer1.Surname = "Yılmaz";
+            customer1.Balance = 50000;
 
-            Musteri musteri2 = new Musteri();
-            musteri2.Ad = "Can";
-            musteri2.Soyad = "Özdemir";
-            musteri2.Bakiye = 100000;
+            Customer customer2 = new Customer();
+            customer2.Name = "Can";
+            customer2.Surname = "Özdemir";
+            customer2.Balance = 100000;
 
-            Musteri musteri3 = new Musteri();
-            musteri3.Ad = "Samet";
-            musteri3.Soyad = "Aktaş";
-            musteri3.Bakiye = 20000;
-
-
-            MusteriManager musteriManager = new MusteriManager();
+            Customer customer3 = new Customer();
+            customer3.Name = "Samet";
+            customer3.Surname = "Aktaş";
+            customer3.Balance = 20000;
 
 
-            musteriManager.MusteriEkle(musteri1);
-            musteriManager.MusteriEkle(musteri2);
-            musteriManager.MusteriEkle(musteri3);
+            CustomerManager customerManager = new CustomerManager();
 
-            musteriManager.MusteriListele();
 
-            musteriManager.MusteriSil(musteri1);
-            musteriManager.MusteriSil(musteri2);
-            musteriManager.MusteriSil(musteri3);
+            customerManager.MusteriEkle(customer1);
+            customerManager.MusteriEkle(customer2);
+            customerManager.MusteriEkle(customer3);
+
+            customerManager.CustomerList();
+
+            customerManager.CustomerDelete(customer1);
+            customerManager.CustomerDelete(customer2);
+            customerManager.CustomerDelete(customer3);
 
 
 
