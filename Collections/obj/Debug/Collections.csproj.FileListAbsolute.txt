@@ -1,0 +1,6 @@
+/Users/canozdemir/Desktop/KampIntro/Collections/obj/Debug/Collections.csproj.AssemblyReference.cache
+/Users/canozdemir/Desktop/KampIntro/Collections/obj/Debug/Collections.csproj.CoreCompileInputs.cache
+/Users/canozdemir/Desktop/KampIntro/Collections/bin/Debug/Collections.exe
+/Users/canozdemir/Desktop/KampIntro/Collections/bin/Debug/Collections.pdb
+/Users/canozdemir/Desktop/KampIntro/Collections/obj/Debug/Collections.exe
+/Users/canozdemir/Desktop/KampIntro/Collections/obj/Debug/Collections.pdb

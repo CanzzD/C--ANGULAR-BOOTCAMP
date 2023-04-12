@@ -1,0 +1,6 @@
+/Users/canozdemir/Desktop/KampIntro/GenericsIntro/bin/Debug/GenericsIntro.exe
+/Users/canozdemir/Desktop/KampIntro/GenericsIntro/bin/Debug/GenericsIntro.pdb
+/Users/canozdemir/Desktop/KampIntro/GenericsIntro/obj/Debug/GenericsIntro.csproj.AssemblyReference.cache
+/Users/canozdemir/Desktop/KampIntro/GenericsIntro/obj/Debug/GenericsIntro.csproj.CoreCompileInputs.cache
+/Users/canozdemir/Desktop/KampIntro/GenericsIntro/obj/Debug/GenericsIntro.exe
+/Users/canozdemir/Desktop/KampIntro/GenericsIntro/obj/Debug/GenericsIntro.pdb
