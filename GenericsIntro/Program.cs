@@ -13,6 +13,8 @@ namespace GenericsIntro
 
             List<string> liste = new List<string>();
             Console.WriteLine(liste.Count);
+
+            
         }
     }
 }

@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{D9DA286B-7937-4161-91B6-FDE0385CFA1F}|Default">
+  <MonoDevelop.Ide.ItemProperties.OOP3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.GenericsIntro PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Collections PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OOP3/BasvuruManager.cs">
+    <Files>
+      <File FileName="OOP3/Program.cs" Line="17" Column="90" />
+      <File FileName="OOP3/KonutKrediManager.cs" Line="13" Column="45" />
+      <File FileName="OOP3/TasitKrediManager.cs" Line="13" Column="38" />
+      <File FileName="OOP3/IhtiyacKrediManager.cs" Line="13" Column="40" />
+      <File FileName="OOP3/BasvuruManager.cs" Line="23" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="KampIntro" expanded="True">
+            <Node name="GenericsIntro" expanded="True" />
+            <Node name="Oop2" expanded="True" />
+            <Node name="OOP3" expanded="True">
+              <Node name="BasvuruManager.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.KampIntro PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Oop2 FirstBuild="True" />
+</Properties>

@@ -1,0 +1,5 @@
+/Users/canozdemir/Desktop/C#-.NET/OOP3/bin/Debug/OOP3.exe
+/Users/canozdemir/Desktop/C#-.NET/OOP3/bin/Debug/OOP3.pdb
+/Users/canozdemir/Desktop/C#-.NET/OOP3/obj/Debug/OOP3.csproj.CoreCompileInputs.cache
+/Users/canozdemir/Desktop/C#-.NET/OOP3/obj/Debug/OOP3.exe
+/Users/canozdemir/Desktop/C#-.NET/OOP3/obj/Debug/OOP3.pdb

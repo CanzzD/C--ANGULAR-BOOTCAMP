@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/canozdemir/Desktop/KampIntro/KampIntro/KampIntro.csproj",
+      "projectUniqueName": "/Users/canozdemir/Desktop/C#-.NET/KampIntro/KampIntro.csproj",
       "projectName": "KampIntro",
-      "projectPath": "/Users/canozdemir/Desktop/KampIntro/KampIntro/KampIntro.csproj",
+      "projectPath": "/Users/canozdemir/Desktop/C#-.NET/KampIntro/KampIntro.csproj",
       "packagesPath": "/Users/canozdemir/.nuget/packages/",
-      "outputPath": "/Users/canozdemir/Desktop/KampIntro/KampIntro/obj/",
+      "outputPath": "/Users/canozdemir/Desktop/C#-.NET/KampIntro/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/canozdemir/.config/NuGet/NuGet.Config"
