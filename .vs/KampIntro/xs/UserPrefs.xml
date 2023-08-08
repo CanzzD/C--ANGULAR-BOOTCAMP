@@ -2,13 +2,13 @@
   <MonoDevelop.Ide.ItemProperties.OOP3 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.GenericsIntro PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Collections PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="OOP3/BasvuruManager.cs">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="OOP3/Program.cs" Line="17" Column="90" />
-      <File FileName="OOP3/KonutKrediManager.cs" Line="13" Column="45" />
-      <File FileName="OOP3/TasitKrediManager.cs" Line="13" Column="38" />
-      <File FileName="OOP3/IhtiyacKrediManager.cs" Line="13" Column="40" />
-      <File FileName="OOP3/BasvuruManager.cs" Line="23" Column="33" />
+      <File FileName="OOP3/Program.cs" Line="17" Column="109" />
+      <File FileName="OOP3/KonutKrediManager.cs" />
+      <File FileName="OOP3/TasitKrediManager.cs" />
+      <File FileName="OOP3/IhtiyacKrediManager.cs" />
+      <File FileName="OOP3/BasvuruManager.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,13 +17,10 @@
             <Node name="GenericsIntro" expanded="True" />
             <Node name="Oop2" expanded="True" />
             <Node name="OOP3" expanded="True">
-              <Node name="BasvuruManager.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
