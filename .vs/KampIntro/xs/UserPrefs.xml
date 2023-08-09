@@ -2,22 +2,20 @@
   <MonoDevelop.Ide.ItemProperties.OOP3 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.GenericsIntro PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Collections PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="OOP3/BasvuruManager.cs">
     <Files>
-      <File FileName="OOP3/Program.cs" Line="17" Column="109" />
-      <File FileName="OOP3/KonutKrediManager.cs" />
-      <File FileName="OOP3/TasitKrediManager.cs" />
-      <File FileName="OOP3/IhtiyacKrediManager.cs" />
-      <File FileName="OOP3/BasvuruManager.cs" />
+      <File FileName="OOP3/Program.cs" Line="23" Column="1" />
+      <File FileName="OOP3/ILoggerService.cs" Line="6" Column="20" />
+      <File FileName="OOP3/DatabaseLoggerService.cs" Line="11" Column="1" />
+      <File FileName="OOP3/FileLoggerService.cs" Line="1" Column="1" />
+      <File FileName="OOP3/BasvuruManager.cs" Line="8" Column="77" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="KampIntro" expanded="True">
-            <Node name="GenericsIntro" expanded="True" />
-            <Node name="Oop2" expanded="True" />
             <Node name="OOP3" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="BasvuruManager.cs" selected="True" />
             </Node>
           </Node>
         </State>

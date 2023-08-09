@@ -37,6 +37,9 @@
     <Compile Include="TasitKrediManager.cs" />
     <Compile Include="IhtiyacKrediManager.cs" />
     <Compile Include="BasvuruManager.cs" />
+    <Compile Include="ILoggerService.cs" />
+    <Compile Include="DatabaseLoggerService.cs" />
+    <Compile Include="FileLoggerService.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
